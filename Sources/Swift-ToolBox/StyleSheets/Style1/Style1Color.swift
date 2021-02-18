@@ -19,11 +19,11 @@ public enum Style1Color {
 
 extension Style1Color {
 
-	var color: UIColor {
+	public var color: UIColor {
 		switch self {
 			case .buttonBackground:
 				return UIColor.blue
-			default:
+			case defaultText::
 				return UIColor.orange
 		}
 	}

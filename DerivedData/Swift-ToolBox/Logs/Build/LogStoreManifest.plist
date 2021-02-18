@@ -108,6 +108,40 @@
 			<key>uniqueIdentifier</key>
 			<string>69790A9E-765B-428C-A4C4-725A19FEBAB0</string>
 		</dict>
+		<key>87323EEE-DA96-4D57-A185-3979F70209D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>87323EEE-DA96-4D57-A185-3979F70209D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Swift-ToolBox</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Swift-ToolBox</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Swift-ToolBox</string>
+			<key>timeStartedRecording</key>
+			<real>635321032.72153497</real>
+			<key>timeStoppedRecording</key>
+			<real>635321033.21679199</real>
+			<key>title</key>
+			<string>Build Swift-ToolBox</string>
+			<key>uniqueIdentifier</key>
+			<string>87323EEE-DA96-4D57-A185-3979F70209D2</string>
+		</dict>
 		<key>986CD5D1-08D5-439D-A43D-0FB924EB1ABA</key>
 		<dict>
 			<key>className</key>
