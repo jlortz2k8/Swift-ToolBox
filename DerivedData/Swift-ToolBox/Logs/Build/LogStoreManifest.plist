@@ -108,6 +108,40 @@
 			<key>uniqueIdentifier</key>
 			<string>69790A9E-765B-428C-A4C4-725A19FEBAB0</string>
 		</dict>
+		<key>81F43D46-E72E-4CE2-91FE-424E7A636348</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>81F43D46-E72E-4CE2-91FE-424E7A636348.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Swift-ToolBox</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Swift-ToolBox</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Swift-ToolBox</string>
+			<key>timeStartedRecording</key>
+			<real>635321611.97738802</real>
+			<key>timeStoppedRecording</key>
+			<real>635321612.56426001</real>
+			<key>title</key>
+			<string>Build Swift-ToolBox</string>
+			<key>uniqueIdentifier</key>
+			<string>81F43D46-E72E-4CE2-91FE-424E7A636348</string>
+		</dict>
 		<key>87323EEE-DA96-4D57-A185-3979F70209D2</key>
 		<dict>
 			<key>className</key>
@@ -209,6 +243,40 @@
 			<string>Build Swift-ToolBox</string>
 			<key>uniqueIdentifier</key>
 			<string>ABAF3077-5B18-4EA1-BF71-B1F76E0EFC23</string>
+		</dict>
+		<key>AE1E82B4-B205-42D8-BF43-F0212739A67B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE1E82B4-B205-42D8-BF43-F0212739A67B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Swift-ToolBox</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Swift-ToolBox</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Swift-ToolBox</string>
+			<key>timeStartedRecording</key>
+			<real>635321619.06340206</real>
+			<key>timeStoppedRecording</key>
+			<real>635321619.990435</real>
+			<key>title</key>
+			<string>Build Swift-ToolBox</string>
+			<key>uniqueIdentifier</key>
+			<string>AE1E82B4-B205-42D8-BF43-F0212739A67B</string>
 		</dict>
 		<key>F2C4A4B8-9B1D-4945-98DA-8EAE4DC2CFFC</key>
 		<dict>

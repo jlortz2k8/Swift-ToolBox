@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>40717A96-F2F8-4018-9003-0D9B95C9248A</key>
+		<key>91384525-00D1-4C0B-BBF7-30D2C5A3B0CE</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
 			<key>fileName</key>
-			<string>40717A96-F2F8-4018-9003-0D9B95C9248A.xcactivitylog</string>
+			<string>91384525-00D1-4C0B-BBF7-30D2C5A3B0CE.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,15 +26,15 @@
 			<key>signature</key>
 			<string>Swift-ToolBox-fsamghmcxnsnbxezenwycneuwyzq</string>
 			<key>timeStartedRecording</key>
-			<real>635321032.79269397</real>
+			<real>635321619.09484601</real>
 			<key>timeStoppedRecording</key>
-			<real>635321033.19364405</real>
+			<real>635321619.44333804</real>
 			<key>title</key>
 			<string>Build target Swift-ToolBox</string>
 			<key>uniqueIdentifier</key>
-			<string>40717A96-F2F8-4018-9003-0D9B95C9248A</string>
+			<string>91384525-00D1-4C0B-BBF7-30D2C5A3B0CE</string>
 		</dict>
-		<key>C0CE4BC8-BA9A-43AD-B0CD-BD8BD9A3FC89</key>
+		<key>EB1EB4E8-24AD-44EA-AB77-B7026D6DF85A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -43,7 +43,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
 			<key>fileName</key>
-			<string>C0CE4BC8-BA9A-43AD-B0CD-BD8BD9A3FC89.xcactivitylog</string>
+			<string>EB1EB4E8-24AD-44EA-AB77-B7026D6DF85A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -54,13 +54,13 @@
 			<key>signature</key>
 			<string>Swift-ToolBoxTests-fsamghmcxnsnbxezenwycneuwyzq</string>
 			<key>timeStartedRecording</key>
-			<real>635318022.14242303</real>
+			<real>635321619.44409096</real>
 			<key>timeStoppedRecording</key>
-			<real>635318022.78956497</real>
+			<real>635321619.97585106</real>
 			<key>title</key>
 			<string>Build target Swift-ToolBoxTests</string>
 			<key>uniqueIdentifier</key>
-			<string>C0CE4BC8-BA9A-43AD-B0CD-BD8BD9A3FC89</string>
+			<string>EB1EB4E8-24AD-44EA-AB77-B7026D6DF85A</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

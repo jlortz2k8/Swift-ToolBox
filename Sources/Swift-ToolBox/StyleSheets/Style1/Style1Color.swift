@@ -21,9 +21,14 @@ extension Style1Color {
 
 	public var color: UIColor {
 		switch self {
+			case .menuBackground:
+				UIColor.systemPurblw
+			case .menuText:
+				UIColor.systemPurblw
+				return UIColor.blue
 			case .buttonBackground:
 				return UIColor.blue
-			case defaultText::
+			case defaultText:
 				return UIColor.orange
 		}
 	}
