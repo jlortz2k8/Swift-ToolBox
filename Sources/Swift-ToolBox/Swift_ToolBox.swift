@@ -1,3 +1,3 @@
-struct Swift_ToolBox {
-    var text = "Hello, World!"
+public struct Swift_ToolBox {
+    public var text = "Hello, World!"
 }

@@ -5,7 +5,64 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>C0CE4BC8-BA9A-43AD-B0CD-BD8BD9A3FC89</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>C0CE4BC8-BA9A-43AD-B0CD-BD8BD9A3FC89.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Swift-ToolBoxTests-fsamghmcxnsnbxezenwycneuwyzq</string>
+			<key>timeStartedRecording</key>
+			<real>635318022.14242303</real>
+			<key>timeStoppedRecording</key>
+			<real>635318022.78956497</real>
+			<key>title</key>
+			<string>Build target Swift-ToolBoxTests</string>
+			<key>uniqueIdentifier</key>
+			<string>C0CE4BC8-BA9A-43AD-B0CD-BD8BD9A3FC89</string>
+		</dict>
+		<key>D6C485CF-DD73-4922-9289-3333CF43D73E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>D6C485CF-DD73-4922-9289-3333CF43D73E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Swift-ToolBox-fsamghmcxnsnbxezenwycneuwyzq</string>
+			<key>timeStartedRecording</key>
+			<real>635318147.27531505</real>
+			<key>timeStoppedRecording</key>
+			<real>635318147.68440902</real>
+			<key>title</key>
+			<string>Build target Swift-ToolBox</string>
+			<key>uniqueIdentifier</key>
+			<string>D6C485CF-DD73-4922-9289-3333CF43D73E</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
